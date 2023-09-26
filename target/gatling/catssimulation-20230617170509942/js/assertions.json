@@ -1,0 +1,10 @@
+{
+  "simulation": "mock.CatsSimulation",
+  "simulationId": "catssimulation",
+  "start": 1687021509942,
+  "description": "",
+  "scenarios": ["create", "delete", "custom"],
+  "assertions": [
+
+  ]
+}
